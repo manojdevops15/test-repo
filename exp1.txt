@@ -1,1 +1,5 @@
 Hi manoj, welcome to github
+
+#!/bin/bash/ --> shebang
+
+Shebang  is the first line of shell scriptand it givves the location of "bash"
